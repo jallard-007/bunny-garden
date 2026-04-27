@@ -1,4 +1,6 @@
 dist/
 node_modules/
-/api
-/files
+/bg-api
+/bg-files
+*.log
+/pb_data
